@@ -8,6 +8,11 @@
   box-sizing: border-box;
 }
 
+:root {
+  color: var(--accent-color);
+  font-family: var(--main-font), sans-serif;
+}
+
 body {
   margin: 0;
 }

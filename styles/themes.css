@@ -21,7 +21,7 @@
     --accent-color: #00CC14;
     --background-image: repeating-linear-gradient(transparent, transparent 2px, #000000 2px, #000000 4px),
     repeating-linear-gradient(90deg,  transparent, transparent 2px, #000000 2px, #000000 4px),
-    linear-gradient(#00CC14 0%, #00CC14 100%);
+    linear-gradient(#007F0C 0%, #004306 100%);
     --text-font-weight: 465;
     --title-font-weight: 765;
     --animated-button-bg-color: #00CC14;
@@ -46,7 +46,7 @@
         --accent-color: #00CC14;
         --background-image: repeating-linear-gradient(transparent, transparent 2px, #000000 2px, #000000 4px),
         repeating-linear-gradient(90deg,  transparent, transparent 2px, #000000 2px, #000000 4px),
-        linear-gradient(#00CC14 0%, #00CC14 100%);
+        linear-gradient(#007F0C 0%, #004306 100%);
         --text-font-weight: 465;
         --title-font-weight: 765;
         --animated-button-bg-color: #00CC14;
